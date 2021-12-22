@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abb981ce.chunk.css",
+    "main.js": "/static/js/main.b7b54766.chunk.js",
+    "main.js.map": "/static/js/main.b7b54766.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.212f1880.js",
+    "runtime-main.js.map": "/static/js/runtime-main.212f1880.js.map",
+    "static/js/2.c380025f.chunk.js": "/static/js/2.c380025f.chunk.js",
+    "static/js/2.c380025f.chunk.js.map": "/static/js/2.c380025f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.abb981ce.chunk.css.map": "/static/css/main.abb981ce.chunk.css.map",
+    "static/js/2.c380025f.chunk.js.LICENSE.txt": "/static/js/2.c380025f.chunk.js.LICENSE.txt",
+    "static/media/arduino.87c37b32.svg": "/static/media/arduino.87c37b32.svg",
+    "static/media/cpp.48ad2ff0.svg": "/static/media/cpp.48ad2ff0.svg",
+    "static/media/git.43d387b7.svg": "/static/media/git.43d387b7.svg",
+    "static/media/matlab.27c7151a.svg": "/static/media/matlab.27c7151a.svg",
+    "static/media/opencv.1de13356.svg": "/static/media/opencv.1de13356.svg",
+    "static/media/python.d60c5299.svg": "/static/media/python.d60c5299.svg",
+    "static/media/pytorch.8653d1d6.svg": "/static/media/pytorch.8653d1d6.svg",
+    "static/media/raspberry.4f08be00.svg": "/static/media/raspberry.4f08be00.svg",
+    "static/media/ros.913f8dfd.svg": "/static/media/ros.913f8dfd.svg",
+    "static/media/tensorflow.d978d6b0.svg": "/static/media/tensorflow.d978d6b0.svg",
+    "static/media/ubuntu.80ddab05.svg": "/static/media/ubuntu.80ddab05.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.212f1880.js",
+    "static/js/2.c380025f.chunk.js",
+    "static/css/main.abb981ce.chunk.css",
+    "static/js/main.b7b54766.chunk.js"
+  ]
+}
